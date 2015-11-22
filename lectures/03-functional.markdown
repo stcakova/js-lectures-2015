@@ -87,7 +87,7 @@ function intersection(array1, array2) {
 var belowTen = [1, 2, 3, 4, 5, 6, 7, 8, 9],
     betweenFiveAndFifteen = [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15];
 
-console.log(intersection(belowTwenty, betweenFiveAndFifteen));
+console.log(intersection(belowTen, betweenFiveAndFifteen));
 ```
 --
 
